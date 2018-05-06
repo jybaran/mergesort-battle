@@ -1,5 +1,5 @@
 # mergesort-battle
-Cathy Lee, Jenny Baran, Lauren Olson, and Zoe Riell
+Cathy Lee, Jenny Baran, and Zoe Riell
 CSC 220
 
 We created 7 dictionaries to store the runtimes of 4 different sorts based on 7 different outputs (10^k, k = 1, 2, ..., 7). We compared the built-in Python and Julia sort functions with iterative implementations by hand.
